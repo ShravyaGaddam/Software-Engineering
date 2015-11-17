@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+    <ImageView
+        android:id="@+id/spinnerItemColor"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/spinnerItemColor" >
+        
+    </ImageView>
+    
+    <TextView 
+        android:id="@+id/spinnerItemText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:textColor="@color/black"
+        android:textSize="@dimen/cell_primary_text_size" >
+        
+    </TextView>
+
+</LinearLayout>
+<!-- From: file:/Users/AnandReddy/Desktop/CalendarApp-2/CalendarApp/app/src/main/res/layout/color_spinner_layout.xml -->

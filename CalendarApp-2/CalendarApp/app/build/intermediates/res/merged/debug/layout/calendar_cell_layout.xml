@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/cellDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="@dimen/cell_primary_text_size" >
+        
+    </TextView>
+
+    <TextView
+        android:id="@+id/cellList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/cell_subtext_size"
+        android:singleLine="true"
+        android:ems="3"
+        android:ellipsize="end"
+        android:lines="1"
+        android:maxLength="5">
+        
+    </TextView>
+
+</LinearLayout>
+<!-- From: file:/Users/AnandReddy/Desktop/CalendarApp-2/CalendarApp/app/src/main/res/layout/calendar_cell_layout.xml -->
