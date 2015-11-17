@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\Downloads\CalendarApp 4\CalendarApp 3\app\build\intermediates\exploded-aar\com.github.yukuku\ambilwarna\2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a188333bb94bc6b8364527797e3b5c97b37a9e49">
+        <dex dex="C:\Users\admin\Downloads\CalendarApp 4\CalendarApp 3\app\build\intermediates\pre-dexed\debug\classes-1896f78ba3d2b53da978e5caf01222a94d34d50f.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\Pictures\CalendarApp\CalendarApp\app\build\intermediates\exploded-aar\com.github.yukuku\ambilwarna\2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a188333bb94bc6b8364527797e3b5c97b37a9e49">
+        <dex dex="C:\Users\admin\Pictures\CalendarApp\CalendarApp\app\build\intermediates\pre-dexed\debug\classes-33123b813c84ca56f5fd20ddb2e28cf914faf744.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\admin\Downloads\CalendarApp 4\CalendarApp 3\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-52ef4bcdb176e7a351a98305c22619cfbb9c8fd8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/NoEvents"
+    android:textColor="@color/black" 
+    android:textSize="@dimen/cell_primary_text_size" 
+     android:textStyle="bold" 
+     android:gravity="center"  />
+<!-- From: file:/C:/Users/admin/Pictures/CalendarApp/CalendarApp/app/src/main/res/layout/no_events_agenda.xml -->
