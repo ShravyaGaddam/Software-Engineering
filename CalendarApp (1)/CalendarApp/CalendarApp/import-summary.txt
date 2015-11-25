@@ -1,0 +1,160 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* CalendarApp.iml
+* CalendarApp_JavaDoc\
+* CalendarApp_JavaDoc\allclasses-frame.html
+* CalendarApp_JavaDoc\allclasses-noframe.html
+* CalendarApp_JavaDoc\com\
+* CalendarApp_JavaDoc\com\cs5103\
+* CalendarApp_JavaDoc\com\cs5103\project\
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\AgendaDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\BuildConfig.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\CalendarActivity.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\CalendarData.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\CalendarGridCell.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\CategoryDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\CategoryItem.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\CategorySpinnerAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\ColorSpinnerAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\ColorSpinnerItem.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\DayFragment.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\DaysOfWeekAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\Event.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\EventDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\EventListAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\MonthFragment.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\MonthGridAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\PickerDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.attr.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.color.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.dimen.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.drawable.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.id.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.layout.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.menu.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.string.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\R.style.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\SettingsDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\WeekFragment.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\WeekGridAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\AgendaDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\BuildConfig.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\CalendarActivity.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\CalendarData.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\CalendarGridCell.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\CategoryDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\CategoryItem.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\CategorySpinnerAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\ColorSpinnerAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\ColorSpinnerItem.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\DayFragment.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\DaysOfWeekAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\Event.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\EventDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\EventListAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\MonthFragment.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\MonthGridAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\PickerDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.attr.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.color.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.dimen.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.drawable.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.id.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.layout.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.menu.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.string.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\R.style.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\SettingsDialog.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\WeekFragment.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\class-use\WeekGridAdapter.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\package-frame.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\package-summary.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\package-tree.html
+* CalendarApp_JavaDoc\com\cs5103\project\calendar\package-use.html
+* CalendarApp_JavaDoc\constant-values.html
+* CalendarApp_JavaDoc\deprecated-list.html
+* CalendarApp_JavaDoc\help-doc.html
+* CalendarApp_JavaDoc\index-files\
+* CalendarApp_JavaDoc\index-files\index-1.html
+* CalendarApp_JavaDoc\index-files\index-10.html
+* CalendarApp_JavaDoc\index-files\index-11.html
+* CalendarApp_JavaDoc\index-files\index-12.html
+* CalendarApp_JavaDoc\index-files\index-13.html
+* CalendarApp_JavaDoc\index-files\index-14.html
+* CalendarApp_JavaDoc\index-files\index-15.html
+* CalendarApp_JavaDoc\index-files\index-16.html
+* CalendarApp_JavaDoc\index-files\index-17.html
+* CalendarApp_JavaDoc\index-files\index-18.html
+* CalendarApp_JavaDoc\index-files\index-19.html
+* CalendarApp_JavaDoc\index-files\index-2.html
+* CalendarApp_JavaDoc\index-files\index-20.html
+* CalendarApp_JavaDoc\index-files\index-21.html
+* CalendarApp_JavaDoc\index-files\index-22.html
+* CalendarApp_JavaDoc\index-files\index-3.html
+* CalendarApp_JavaDoc\index-files\index-4.html
+* CalendarApp_JavaDoc\index-files\index-5.html
+* CalendarApp_JavaDoc\index-files\index-6.html
+* CalendarApp_JavaDoc\index-files\index-7.html
+* CalendarApp_JavaDoc\index-files\index-8.html
+* CalendarApp_JavaDoc\index-files\index-9.html
+* CalendarApp_JavaDoc\index.html
+* CalendarApp_JavaDoc\overview-tree.html
+* CalendarApp_JavaDoc\package-list
+* CalendarApp_JavaDoc\resources\
+* CalendarApp_JavaDoc\resources\Thumbs.db
+* CalendarApp_JavaDoc\resources\background.gif
+* CalendarApp_JavaDoc\resources\tab.gif
+* CalendarApp_JavaDoc\resources\titlebar.gif
+* CalendarApp_JavaDoc\resources\titlebar_end.gif
+* CalendarApp_JavaDoc\serialized-form.html
+* CalendarApp_JavaDoc\stylesheet.css
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

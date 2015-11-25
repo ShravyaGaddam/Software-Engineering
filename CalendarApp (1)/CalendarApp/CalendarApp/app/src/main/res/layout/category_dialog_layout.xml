@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/showCategoryTitle"
+        style="?android:listSeparatorTextViewStyle" >
+        
+  	</TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        
+        <EditText
+            android:id="@+id/categoryTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" 
+            android:layout_weight="1"
+            android:hint="@string/categoryName" >
+            
+        </EditText>
+        
+        <Spinner
+            android:id="@+id/colorCategorySpinner"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+            
+        </Spinner>
+        
+    </LinearLayout>
+    
+<!--     
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/bottom_bar"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        style="?android:attr/buttonBarStyle" >
+        
+        <Button
+            android:id="@+id/settingsCancel"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/buttonCancel"
+            android:textSize="@dimen/cell_primary_text_size"
+            android:textColor="@color/black"
+            style="?android:attr/buttonBarButtonStyle" >
+            
+        </Button>
+
+        <Button
+            android:id="@+id/settingsOK"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/buttonApply"
+            android:textSize="@dimen/cell_primary_text_size"
+            android:textColor="@color/black"
+            style="?android:attr/buttonBarButtonStyle" >
+            
+        </Button>
+        
+	</LinearLayout>
+--> 
+    
+</LinearLayout>

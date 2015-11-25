@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_menu_settings" >
+    </item>
+    
+    <item
+        android:id="@+id/addEvent"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:title="@string/addEvent"
+        android:icon="@drawable/ic_menu_add" >
+    </item>
+
+    <item
+        android:id="@+id/showAgenda"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:title="@string/showAgenda"
+        android:icon="@drawable/ic_menu_agenda" >
+    </item>
+
+    <item
+        android:id="@+id/showCategories"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:title="@string/showCategory"
+        android:icon="@drawable/icon_category" >
+    </item>
+</menu>
+<!-- From: file:/C:/Users/sai/Desktop/CalendarApp%20(1)/CalendarApp/CalendarApp/app/src/main/res/menu/calendar.xml -->

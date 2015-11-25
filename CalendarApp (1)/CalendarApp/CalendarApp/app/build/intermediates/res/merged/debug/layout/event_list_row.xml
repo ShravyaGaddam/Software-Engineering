@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+<TextView
+    android:id="@+id/event_Id"
+    android:textColor="@color/black"
+    android:textSize="@dimen/cell_primary_text_size" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="hidden value" 
+    android:visibility="gone"/>
+<TextView
+    android:id="@+id/event_Name"
+    android:textColor="@color/blue"
+    android:textSize="@dimen/cell_primary_text_size" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+<TextView
+    android:id="@+id/event_Description"
+    android:textColor="@color/gray"
+    android:layout_width="match_parent"
+    android:textSize="@dimen/cell_subtext_size" 
+    android:layout_height="wrap_content" />
+<TextView
+    android:id="@+id/event_loctime"
+    android:textColor="@color/black"
+    android:textSize="@dimen/cell_subtext_size" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<TextView
+    android:id="@+id/event_location"
+    android:textColor="@color/black"
+    android:textSize="@dimen/cell_primary_text_size" 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="hidden value" 
+    android:visibility="gone"/>
+
+</LinearLayout>
+
+
+<!-- From: file:/C:/Users/sai/Desktop/CalendarApp%20(1)/CalendarApp/CalendarApp/app/src/main/res/layout/event_list_row.xml -->
